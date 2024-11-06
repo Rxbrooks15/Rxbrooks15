@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Ori(go)
 - 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on Ori(go) project
+- 👯 I’m looking to collaborate on Ori(go) and other offered data projects
 - 🤔 I’m looking for help with UI/ UX animation
 - 💬 Ask me about my hobbies 
 - 📫 How to reach me: 8326075324
