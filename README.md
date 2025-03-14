@@ -1,5 +1,5 @@
-## Hi there 👋
-- 🔭 I’m currently working on Ori(go)
+## HELLO WORLD 👋
+- 🔭 I’m currently working on the Ori(go) start up 
 - 🌱 I’m currently learning Azure
 - 👯 I’m looking to collaborate on Ori(go) and other offered data projects
 - 🤔 I’m looking for help with UI/ UX animation
