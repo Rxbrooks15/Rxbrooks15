@@ -6,7 +6,7 @@
 - 💬 Ask me about my hobbies 
 - 📫 How to reach me: 8326075324
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:I can solve a rubik's cube in less than 60 seconds 
+- ⚡ Fun fact:I can solve a rubik's cube in less than 40 seconds 
 <!--
 **Rxbrooks15/Rxbrooks15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
