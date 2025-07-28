@@ -1,4 +1,4 @@
-## HELLO WORLD 👋
+## print("HELLO WORLD") 👋
 - 🔭 I’m currently working on a revolutionary start up, Ori(go). 
 - 🌱 I’m currently learning Azure, Databricks, reinforcement learning, Apache Spark, and Data Engineering (Data Warehouses & Data Lakes)
 - 👯 I’m looking to collaborate on origami, chess, Ori(go) and other offered data projects
