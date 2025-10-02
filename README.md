@@ -1,6 +1,6 @@
 ## print("HELLO WORLD") 👋
 Mind & Body: https://www.instagram.com/rxbrooks/
-- 🔭 I’m currently working on a revolutionary startup, Ori(go): If life gives you paper, make an airplane and take off- https://www.instagram.com/p/DH14MXtplKl/
+- 🔭 I’m currently working on a revolutionary startup, Ori(go): **If life gives you paper, make an airplane and take off**- https://www.instagram.com/p/DH14MXtplKl/
 - 🌱 I’m currently learning Azure, Databricks, reinforcement learning, Apache Spark, SQL, Neural Networks, and Data Engineering & Data Mining
 - 👯 I’m looking to collaborate on cryptocurrency, gym goals, origami, chess, Ori(go), Go/ Baduk and other offered data projects
 - 🤔 I’m looking for a Co-founder for Ori(go) & The Creased Cosmos (reference to https://www.linkedin.com/company/104403007/admin/inbox/thread/2-NmQ3ZWMxOTEtNDYxYi00YjFjLTgyOGQtNGYxODFiOWYxMzQ1XzAxMA==/)
