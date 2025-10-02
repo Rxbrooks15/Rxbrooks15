@@ -1,10 +1,11 @@
 ## print("HELLO WORLD") 👋
 Mind & Body: https://www.instagram.com/rxbrooks/
-- 🔭 I’m currently working on a revolutionary start up, Ori(go). 
-- 🌱 I’m currently learning Azure, Databricks, reinforcement learning, Apache Spark, and Data Engineering 
-- 👯 I’m looking to collaborate on cryptocurrency, origami, chess, Ori(go) and other offered data projects
-- 🤔 I’m looking for a Co-founder for Ori(go)
-- Ori(go) is a social media platform designed to reduce the barrier of entry for learning origami. By integrating characters, challenges, rewards, and progress tracking, the app incentivizes users to fold, collect, and trade digital origami.
+- 🔭 I’m currently working on a revolutionary startup, Ori(go): If life gives you paper, make an airplane and take off- https://www.instagram.com/p/DH14MXtplKl/
+- 🌱 I’m currently learning Azure, Databricks, reinforcement learning, Apache Spark, SQL, Neural Networks, and Data Engineering & Data Mining
+- 👯 I’m looking to collaborate on cryptocurrency, gym goals, origami, chess, Ori(go), Go/ Baduk and other offered data projects
+- 🤔 I’m looking for a Co-founder for Ori(go) & The Creased Cosmos (reference to https://www.linkedin.com/company/104403007/admin/inbox/thread/2-NmQ3ZWMxOTEtNDYxYi00YjFjLTgyOGQtNGYxODFiOWYxMzQ1XzAxMA==/)
+- **The global Origami Market size was valued at USD 0.25 Billion in 2024 and is projected to expand at a compound annual growth rate (CAGR) of 6.5%**
+- **Ori(go) is the new Pokemon GO Killer** and is described as a social media platform/ digital repository designed to reduce the barrier of entry for learning origami and paper folding. By integrating characters, challenges, rewards, and progress tracking, the app incentivizes users to fold, collect, and trade 3d digital crypto based on a convolutional neural network and a system of gami (origami value based on Black Sholes modeling).
 - 💬 Ask me about my hobbies 
 - 📫 How to reach me: 8326075324
 - 😄 Pronouns: He/Him
