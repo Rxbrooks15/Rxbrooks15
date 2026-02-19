@@ -1,4 +1,5 @@
 ## print("HELLO WORLD") 👋
+I am a recent graduate from Dartmouth College with a degree in Data Science, supported by technical certifications that showcase proficiency in SQL, data analysis, and systems modeling. Through academic projects and applied coursework, I have developed experience in analyzing business processes, gathering requirements, improving data flows, and translating insights into actionable recommendations.
 Mind & Body: https://www.instagram.com/rxbrooks/
 - **Once I have the data, I'm limitless**
 - 🔭 I used to work on a revolutionary startup, Ori(go): **If life gives you paper, make an airplane and take off**- https://www.instagram.com/p/DH14MXtplKl/
