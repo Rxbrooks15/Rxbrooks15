@@ -8,6 +8,9 @@ Mind & Body: https://www.instagram.com/rxbrooks/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a rubik's cube in less than 40 seconds and play blindfolded chess
 
+- RESUME (BA):[Associate_Resume.pdf](https://github.com/user-attachments/files/25403227/Associate_Resume.pdf)
+- RESUME (DS): [DATA_CV_2_16.pdf](https://github.com/user-attachments/files/25403251/DATA_CV_2_16.pdf)
+
 **Within cells interlinked
 Within cells interlinked
 Within cells interlinked...What does it feel like to be part of the system. System.....Is there anything in your body that wants to resist the system? System....Do you get pleasure out of being a part of the system? System.
