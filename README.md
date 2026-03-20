@@ -7,7 +7,7 @@ Mind & Body: https://www.instagram.com/rxbrooks/
 - 💬 Ask me about my hobbies 
 - 📫 How to reach me: 8326075324
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a rubik's cube in less than 40 seconds and play blindfolded chess
+- ⚡ Fun fact: I have recenlty been learing the ancient game of Go/ Baduk and can solve a rubik's cube in less than a minute. I am conversational in Spanish and have recently been learning Japanese. 
 
 - RESUME (BA):[Associate_Resume.pdf](https://github.com/user-attachments/files/25403227/Associate_Resume.pdf)
 - RESUME (DS): [DATA_CV_2_16.pdf](https://github.com/user-attachments/files/25403251/DATA_CV_2_16.pdf)
