@@ -3,7 +3,7 @@ I am an Ivy League QuestBridge Scholar and graduated from Dartmouth College with
 Mind & Body: https://www.instagram.com/rxbrooks/
 - **Once I have the data, I'm limitless**
 - 🔭 With an entrepreneur mindset, I used to work on a revolutionary startup, Ori(go) which is a digital platform/ repository where users can trade, sell, and upgrade digital origami models | "If life gives you paper, make an airplane and take off"| https://www.instagram.com/p/DH14MXtplKl/ 
-- 🌱 I’m currently learning AWS, Apache Spark, SQL, Neural Networks, and Data Engineering & Data Mining + Front Flip, Backflip, Flare, Card Counting & Weiqi/Go/Baduk
+- 🌱 I’m currently learning DBT, AWS, Neural Networks, LSTMs, AI orchestration, Openclaw, CI/CD pipelines, & Kubernetics
 - 💬 Ask me about my hobbies 
 - 📫 How to reach me: 8326075324
 - 😄 Pronouns: He/Him
