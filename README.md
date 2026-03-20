@@ -2,7 +2,7 @@
 I am a QuestBridge Scholar and graduate from Dartmouth College with a degree in Data Science, supported by technical certifications that showcase proficiency in SQL, data & business analysis, and machine learning. Through academic projects and applied coursework, I have developed experience in analyzing business processes, gathering requirements, improving data flows, and translating insights into actionable recommendations.
 Mind & Body: https://www.instagram.com/rxbrooks/
 - **Once I have the data, I'm limitless**
-- 🔭 I used to work on a revolutionary startup, Ori(go): **If life gives you paper, make an airplane and take off**- https://www.instagram.com/p/DH14MXtplKl/
+- 🔭 With an entrepreneur mindset I used to work on a revolutionary startup, Ori(go): **If life gives you paper, make an airplane and take off**- https://www.instagram.com/p/DH14MXtplKl/ --- Ori(go) is a digital platform/ repository where users can trade, sell, and upgrade digital origami models
 - 🌱 I’m currently learning AWS, Apache Spark, SQL, Neural Networks, and Data Engineering & Data Mining + Front Flip, Backflip, Flare, Card Counting & Weiqi/Go/Baduk
 - 💬 Ask me about my hobbies 
 - 📫 How to reach me: 8326075324
