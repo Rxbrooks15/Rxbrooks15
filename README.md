@@ -1,7 +1,7 @@
 ## print("HELLO WORLD") 👋
 I am an Ivy League QuestBridge Scholar and graduated from Dartmouth College with a degree in Data Science and a minor in Astrophysics. My skills are supported by technical certifications that showcase my proficiency in SQL/ Python, data & business analysis, project management, and machine learning. Through real-world job experiences, academic projects, and applied coursework, I have developed experience in data manipulation, machine learning, data mining, analyzing business processes, gathering requirements, improving data flows, and translating insights into actionable recommendations.
 Mind & Body: https://www.instagram.com/rxbrooks/
-- **Once I have the data, I'm limitless**
+- **Once I have the data, I'm limitless...**
 - 🔭 With an entrepreneur mindset, I used to work on a revolutionary startup, Ori(go) which is a digital platform/ repository where users can trade, sell, and upgrade digital origami models | "If life gives you paper, make an airplane and take off"| https://www.instagram.com/p/DH14MXtplKl/ 
 - 🌱 I’m currently learning DBT, AWS, Neural Networks, LSTMs, AI orchestration, Openclaw, CI/CD pipelines, & Kubernetics
 - 💬 Ask me about my hobbies 
